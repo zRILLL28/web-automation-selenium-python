@@ -19,7 +19,7 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 * `Login with correct email & password.py`: Menguji akses masuk dengan kredensial valid.
 * `Add Product in Cart.py`: Menguji fungsionalitas keranjang belanja.
 * `Verify Search Product.py`: Menguji fitur pencarian barang.
-* *(Dan file script lainnya sesuai isi folder)*
+* Dll
 
 ## 📈 Pengembangan Selanjutnya (Roadmap)
 Project ini adalah versi awal (Milestone 1). Rencana pengembangan berikutnya:
