@@ -26,8 +26,10 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 <summary><b>📷 Click to view Screenshots </b></summary>
 <br>
 
-<summary><b>📷 With POM  </b></summary>
+<details>
+   <summary><b>📷 With POM  </b></summary>
 <br>
+</details>
 
 ### With POM Verify Login Success
 ![POMSuccess](Screenshots/WithPOM_Verify_Login_Success.png)
