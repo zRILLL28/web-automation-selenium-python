@@ -23,18 +23,33 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 
 ## 📊 Screenshots
 <details>
-<summary><b>📷 Click to view Screenshots With POM Test</b></summary>
+<summary><b>📷 Click to view Screenshots </b></summary>
 <br>
-   
+
+<summary><b>📷 With POM  </b></summary>
+<br>
+
 ### With POM Verify Login Success
-![Success](Screenshots/WithPOM_Verify_Login_Succes.png)
+![POMSuccess](Screenshots/WithPOM_Verify_Login_Success.png)
+
+### With POM Verify Login Failed
+![POMFailed](Screenshots/WithPOM_Verify_Login_Failed.png)
+
+### With POM Verify Brand Product
+![POMBrand](Screenshots/WithPOM_Verify_Brand_Product.png)
 
 <details>
-<summary><b>📷 Click to view Screenshots Without POM Test</b></summary>
+<summary><b>📷 Without POM </b></summary>
 <br>
    
 ### Without POM Verify Login Success
 ![Success](Screenshots/WithoutPOM_Verify_Login_Success.png)
+
+### Without POM Verify Login Failed
+![Failed](Screenshots/WithoutPOM_Verify_Login_Failed.png)
+
+### Without POM Verify Form Contact Us
+![POMContact](Screenshots/WithPOM_Verify_Form_Contact_Us.png)
 
 </details>
 
