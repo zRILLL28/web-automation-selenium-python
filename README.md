@@ -29,7 +29,6 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 <details>
    <summary><b>📷 With POM  </b></summary>
 <br>
-</details>
 
 ### With POM Verify Login Success
 ![POMSuccess](Screenshots/WithPOM_Verify_Login_Success.png)
@@ -39,6 +38,8 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 
 ### With POM Verify Brand Product
 ![POMBrand](Screenshots/WithPOM_Verify_Brand_Product.png)
+
+</details>
 
 <details>
 <summary><b>📷 Without POM </b></summary>
@@ -52,6 +53,8 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 
 ### Without POM Verify Form Contact Us
 ![POMContact](Screenshots/WithPOM_Verify_Form_Contact_Us.png)
+
+</details>
 
 </details>
 
