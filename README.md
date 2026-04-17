@@ -52,7 +52,7 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 ![Failed](Screenshots/WithoutPOM_Verify_Login_Failed.png)
 
 ### Without POM Verify Form Contact Us
-![POMContact](Screenshots/WithPOM_Verify_Form_Contact_Us.png)
+![POMContact](Screenshots/WithoutPOM_Verify_Form_Contact_Us.png)
 
 </details>
 
