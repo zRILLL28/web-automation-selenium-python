@@ -23,16 +23,19 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 
 ## 📊 Screenshots
 <details>
-  ### With POM 
-    #### Verify Login Success
+   <summary><b>📷 Click to view Screenshots With POM Test</b></summary>
+  <br>
+  ### With POM Verify Login Success
 ![POMSuccess](Screenshots/WithPOM_Verify_Login_Success.png)
 </details>
 
 <details>
-  ### Without POM
-    #### Verify Login Success
+  <summary><b>📷 Click to view Screenshots Without POM Test</b></summary>
+  <br>
+  ### Without POM Verify Login Success
   ![Success](Screenshots/WithoutPOM_Verify_Login_Success.png)
 </details>
+
 ## 📈 Pengembangan Selanjutnya (Roadmap)
 Project ini adalah versi awal (Milestone 1). Rencana pengembangan berikutnya:
 - [ ] Implementasi **Page Object Model (POM)** untuk efisiensi kode.
