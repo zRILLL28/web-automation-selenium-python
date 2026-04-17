@@ -23,17 +23,19 @@ Script ini mencakup berbagai skenario pengujian, antara lain:
 
 ## 📊 Screenshots
 <details>
-   <summary><b>📷 Click to view Screenshots With POM Test</b></summary>
-  <br>
-  ### With POM Verify Login Success
-![POMSuccess](Screenshots/WithPOM_Verify_Login_Success.png)
-</details>
+<summary><b>📷 Click to view Screenshots With POM Test</b></summary>
+<br>
+   
+### With POM Verify Login Success
+![Success](Screenshots/WithPOM_Verify_Login_Succes.png)
 
 <details>
-  <summary><b>📷 Click to view Screenshots Without POM Test</b></summary>
-  <br>
-  ### Without POM Verify Login Success
-  ![Success](Screenshots/WithoutPOM_Verify_Login_Success.png)
+<summary><b>📷 Click to view Screenshots Without POM Test</b></summary>
+<br>
+   
+### Without POM Verify Login Success
+![Success](Screenshots/WithoutPOM_Verify_Login_Success.png)
+
 </details>
 
 ## 📈 Pengembangan Selanjutnya (Roadmap)
